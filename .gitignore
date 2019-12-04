@@ -14,3 +14,8 @@ kernel
 kernelmemfs
 mkfs
 .gdbinit
+
+# IDE
+.idea/
+*.json
+.DS_Store
